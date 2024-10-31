@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+background: -webkit-linear-gradient(bisque, grey);
+}
+h1{
+    background-color: white;
+    color: gray;
+}
+input,select,textarea{
+    font-size:18;
+    background-color: white;
+}
+p{
+    font-size:20px;
+    color:black;
+    
+}
+option{
+  background-color:darkgray;
+    
+}

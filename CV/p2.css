@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-image: url(%D8%AC%D8%AF%D9%8A%D8%AF.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 652px;
+}
+
+nav ul{
+    background-color: grey;
+    overflow: hidden;
+    margin:0;
+    padding:0px;;  
+}
+
+li{
+    list-style: none;
+    float: left; 
+}
+
+li.right{
+  float: right;   
+}
+
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    min-height: 20px;
+    text-align: center;
+    padding: 14px;
+    color:white;  
+    
+}
+
+li a:hover{
+  background-color:bisque;
+  color:grey;  
+}
+.button1{
+     display: block;
+    font-size: 50px;
+    background:linear-gradient(bisque, grey);
+    border-radius:16px;
+    margin:auto;
+    margin-top: 80px;
+    padding: 2px 80px;
+}
+.button2{
+   display: block;
+    font-size: 50px;
+    background:linear-gradient(bisque, grey);
+    border-radius: 16px;
+    margin: auto;
+    margin-top: 233px;
+      padding: 2px 80px;
+}button a{
+    text-decoration: none;
+    text-align: center;
+    padding: 14px;
+    color:black;
+}
+ a:hover{
+  color:white;  
+}
